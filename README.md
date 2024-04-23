@@ -1,18 +1,11 @@
 ﻿# Marketfeed-Assignment
 
-## Description
-
 # Implementation PDF: [Click here! ](https://drive.google.com/file/d/1B4wfbcm9mCM754RYHRBNFOajsUwgdOKj/view?usp=sharing)
 
 ## TASKS:
 
 
-# Log Monitoring Script
-
-## Description
-This script continuously logs messages at random levels (INFO, DEBUG, ERROR) and monitors the log file concurrently.
-
-
+## Log Monitoring Script
 
 ### 1. Imported Modules
    The script imports the following necessary modules:
