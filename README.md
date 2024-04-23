@@ -1,7 +1,8 @@
 ﻿# Marketfeed-Assignment Implementation PDF: [Click here! ](https://drive.google.com/file/d/1B4wfbcm9mCM754RYHRBNFOajsUwgdOKj/view?usp=sharing)
 
 ## TASKS:
-
+1. [Log File Monitoring](#1-Log-File-Monitoring)
+2. [Log Analysis](#2-Log-analysis)
 
 # 1) Log File Monitoring: 
 
