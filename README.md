@@ -1,5 +1,8 @@
 ﻿# Marketfeed-Assignment Implementation PDF: [Click here! ](https://drive.google.com/file/d/1B4wfbcm9mCM754RYHRBNFOajsUwgdOKj/view?usp=sharing)
 
+This repository hosts two Python scripts for log management tasks. The first script offers real-time monitoring of log files with the ability to gracefully stop the monitoring loop. It serves as a valuable tool for troubleshooting and system maintenance. The second script enhances functionality by providing real-time monitoring and basic log analysis, including keyword counting and summary report generation. These scripts provide essential tools for efficient log management and troubleshooting tasks.
+
+
 ## TASKS:
 1. [Log File Monitoring](#1-Log-File-Monitoring)
 2. [Log Analysis](#2-Log-analysis)
