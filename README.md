@@ -5,7 +5,7 @@
 ## TASKS:
 
 
-## 1) Log File Monitoring: 
+# 1) Log File Monitoring: 
 
 ### 1. Imported Modules
    The script imports the following necessary modules:
@@ -47,7 +47,7 @@
 
 
 
-## Log Analysis:
+# 2) Log Analysis:
 
 ### 1. Description
 - The script continuously monitors a specified log file for new entries in real-time.
