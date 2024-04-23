@@ -57,35 +57,33 @@ To access the scripts directly, you can find them here:
 
 # 2) Log Analysis:
 
-1. **Logging Configuration**:
-   - Configures logging to display messages of all levels.
+### 1. Logging Configuration (`logging.basicConfig()`)
+   - Configures the root logger to output log messages with a level of DEBUG or higher.
 
-2. **Logger Creation**:
-   - Creates a logger instance for the module.
+### 2. Logger Initialization
+   - Creates a logger named `__name__`, typically corresponding to the module's name.
 
-3. **Log Message Formats**:
+### 3. Log Message Formats
    - Defines message formats for different log levels (`INFO`, `DEBUG`, `ERROR`).
 
-4. **Log Levels**:
+### 4. Log Levels
    - Contains logging levels (`INFO`, `DEBUG`, `ERROR`) to cycle through for logging messages.
 
-5. **Monitoring Log File**:
+### 5. Monitoring Log File
    - Monitors a log file for errors.
    - Utilizes PowerShell to continuously read the log file with `subprocess.Popen`.
    - Performs basic log analysis by counting occurrences of lines containing "ERROR" using `Counter`.
    - Generates a summary report based on error counts.
 
-6. **Main Loop**:
+### 6. Main Loop
    - Controls the program flow.
    - Sets up log file path and initiates an infinite loop.
    - Randomly selects a log level and logs a message using the chosen level.
    - Retrieves log entries and summary reports from `monitor_log_file()` and prints them.
    - Handles exceptions like `StopIteration` and `KeyboardInterrupt` to exit gracefully.
 
-7. **Analysis**:
+### 7. Analysis
    - Provides a real-time analysis of log entries.
    - Summarizes error occurrences to offer insights into the log's health and potential issues.
-
-
 
 
