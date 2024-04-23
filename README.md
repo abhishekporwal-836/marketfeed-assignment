@@ -5,7 +5,7 @@
 ## TASKS:
 
 
-## 1) Log Monitoring Script
+## 1) Log File Monitoring: 
 
 ### 1. Imported Modules
    The script imports the following necessary modules:
