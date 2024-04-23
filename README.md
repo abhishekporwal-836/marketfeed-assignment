@@ -4,6 +4,10 @@ This repository hosts two Python scripts for log management tasks. The first scr
 
 Please refer to the provided Implementation PDF for detailed insights into how the scripts are implemented.
 
+To access the scripts directly, you can find them here:
+- [Log Monitoring Script](log_monitor.py)
+- [Log Monitoring and Analysis Script](log_analysis.py)
+
 ## TASKS:
 1. [Log File Monitoring](#1-Log-File-Monitoring)
 2. [Log Analysis](#2-Log-analysis)
